@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshit614
 - 👀 I’m interested in creating new projects
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on Python projects
+- 💞️ I’m looking to collaborate on Python and Javascript projects
 - 📫 How to reach me akkisingh8266@gmail.com
 
 <!---
