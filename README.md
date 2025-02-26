@@ -1,8 +1,9 @@
-# 👋 Hi I'm Divyanshu Chaudhary
-### A passionate Software Developer
+# 👋 Divyanshu Chaudhary here
+### Wanna be Software Developer
 
-- 👀 I’m interested in creating new projects
-- 🌱 I’m currently learning Full stack developement
+- 👀 Interested in building new projects.
+- 🌱 Currently enjoying Pull stack developement.
+    - Pulling from internet and then convert into code.
 
 - 🌱 Also experienced in Machine learning stuff. 
 - 💞️ I’m looking to collaborate on Python and Javascript projects
