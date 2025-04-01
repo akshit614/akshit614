@@ -11,16 +11,6 @@ I love building things that helps in real world problems. Whether it's web appli
 
 ## 🚧 Currently Working On  
 - 🎯 Enhancing my skills in **Next.js, Docker, Cloudflare, Making roubust webapps**  
-
-## 🤝 Looking to Collaborate  
-I'm open to working on **Python, JavaScript, and AI-related projects**. Let's build something amazing together!  
-
-## 📫 Let's Connect  
-- 📩 **Email:** akkisingh8266@gmail.com  
-- 🔗 **Portfolio:** [[Portfolio](https://divyanshu4code.vercel.app/)] 
-- 🐦 **X** [[Twitter](https://x.com/Divyansh4code?t=4DPDCEcjcws4O10KJCsctQ&s=09)]  
-- 💼 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/divyanshu-chaudhary-4aaa53222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
-
 ---
 
 ## 📊 GitHub Stats  
