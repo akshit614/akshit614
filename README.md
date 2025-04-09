@@ -16,12 +16,12 @@ I love building things that helps in real world problems. Whether it's web appli
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshit614&show_icons=true&theme=radical" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=akshit614&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshit614&show_icons=true&theme=light" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit614&layout=compact&theme=light" />
+<!--   <img width="48%" src="https://streak-stats.demolab.com?user=akshit614&theme=radical" /> -->
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit614&layout=compact&theme=radical" />
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=akshit614&theme=radical)](https://git.io/streak-stats) -->
 </p>
 
